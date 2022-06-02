@@ -113,7 +113,7 @@ DECODER:
 
 ### TIMING DIGRAMS  
 ENCODER:
-![OUTPUT](./TD1.png)
+![OUTPUT](./TDD1.png)
 DECODER:
 ![OUTPUT](./TD2.png)
 
@@ -122,8 +122,7 @@ DECODER:
 
 
 ### TRUTH TABLE 
-
-ENCODER:
+## ENCODER:
 ![OUTPUT](./TT1.png)
 DECODER:
 ![OUTPUT](./TT2.png)
