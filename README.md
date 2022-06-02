@@ -105,27 +105,23 @@ endmodule
 ```
 
 ## OUTPUT
-### RTL LOGIC  
-ENCODER:
+ 
+## ENCODER:
+### RTL LOGIC
 ![OUTPUT](./rtl1.png)
-DECODER:
+### TIMING DIGRAMS
+![OUTPUT](./TDD1.png)
+### TRUTH TABLE 
+![OUTPUT](./TT1.png)
+## DECODER:
+
+### RTL LOGIC
 ![OUTPUT](./rtl2.png)
 
-
-### TIMING DIGRAMS  
-ENCODER:
-![OUTPUT](./TDD1.png)
-DECODER:
+### RTL LOGIC
 ![OUTPUT](./TD2.png)
-
-
-
-
-
 ### TRUTH TABLE 
-ENCODER:
-![OUTPUT](./TT1.png)
-DECODER:
+
 ![OUTPUT](./TT2.png)
 
 
